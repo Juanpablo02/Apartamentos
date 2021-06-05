@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#22455B</color>
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorPrimaryDark">#1B3C4F</color>
+    <color name="black">#000000</color>
+    <color name="grey">#2E2E2E</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="button_singin">#EF6330</color>
+    <color name="title_profile">#EF6330</color>
+    <color name="register">#22455B</color>
+    <color name="forget_password">#22455B</color>
+    <color name="login">#000000</color>
+    <color name="register_title">#70BDC5</color>
+    <color name="name">#70BDC5</color>
+    <color name="navegation">#EF6330</color>
+    <color name="back">#ADADAD</color>
+</resources>

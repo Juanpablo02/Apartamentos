@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570004095421",
+    "project_id": "apartamentos-2326c",
+    "storage_bucket": "apartamentos-2326c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570004095421:android:a5478e31acd53e540492d4",
+        "android_client_info": {
+          "package_name": "com.cesde.apartamentos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570004095421-a6t2387ufshn8rltbpqgvqkjl7ma887o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1SANNs-WsNpSXc-2wIqs-T7a2wN-H_js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570004095421-a6t2387ufshn8rltbpqgvqkjl7ma887o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
